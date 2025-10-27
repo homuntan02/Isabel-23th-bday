@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/homuntan02/Isabel-23th-bday/static/css/main.f855e6bc.css",
-    "main.js": "/homuntan02/Isabel-23th-bday/static/js/main.d1021a60.js",
-    "static/js/453.e695e4f5.chunk.js": "/homuntan02/Isabel-23th-bday/static/js/453.e695e4f5.chunk.js",
-    "static/media/logo.svg": "/homuntan02/Isabel-23th-bday/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
-    "index.html": "/homuntan02/Isabel-23th-bday/index.html",
-    "main.f855e6bc.css.map": "/homuntan02/Isabel-23th-bday/static/css/main.f855e6bc.css.map",
-    "main.d1021a60.js.map": "/homuntan02/Isabel-23th-bday/static/js/main.d1021a60.js.map",
-    "453.e695e4f5.chunk.js.map": "/homuntan02/Isabel-23th-bday/static/js/453.e695e4f5.chunk.js.map"
+    "main.css": "/Isabel-23th-bday/static/css/main.f855e6bc.css",
+    "main.js": "/Isabel-23th-bday/static/js/main.d6ce51c2.js",
+    "static/js/453.e695e4f5.chunk.js": "/Isabel-23th-bday/static/js/453.e695e4f5.chunk.js",
+    "static/media/logo.svg": "/Isabel-23th-bday/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/Isabel-23th-bday/index.html",
+    "main.f855e6bc.css.map": "/Isabel-23th-bday/static/css/main.f855e6bc.css.map",
+    "main.d6ce51c2.js.map": "/Isabel-23th-bday/static/js/main.d6ce51c2.js.map",
+    "453.e695e4f5.chunk.js.map": "/Isabel-23th-bday/static/js/453.e695e4f5.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.f855e6bc.css",
-    "static/js/main.d1021a60.js"
+    "static/js/main.d6ce51c2.js"
   ]
 }
