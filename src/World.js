@@ -56,7 +56,7 @@ export default function World() {
     };
     window.addEventListener("keydown", onKey);
     return () => window.removeEventListener("keydown", onKey);
-  }, []);
+  }, [moveLeft, moveRight]);
 
   const sprite =
     direction === "left" ? walkLeft : direction === "right" ? walkRight : stand;
