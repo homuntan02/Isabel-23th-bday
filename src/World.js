@@ -1,8 +1,8 @@
 import { useEffect, useRef, useState } from "react";
-import bg from "./assets/bg.png";
-import stand from "./assets/stand.png";      // standing sprite
-import walkRight from "./assets/walk-right.png"; // walking right sprite
-import walkLeft from "./assets/walk-left.png";   // walking left sprite
+import bg from "src/assets/bg.png";
+import stand from "src/assets/stand.png";      // standing sprite
+import walkRight from "src/assets/walk-right.png"; // walking right sprite
+import walkLeft from "src/assets/walk-left.png";   // walking left sprite
 
 export default function World() {
   const [x, setX] = useState(0);                 // horizontal scroll position
